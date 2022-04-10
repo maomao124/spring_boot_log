@@ -9,8 +9,8 @@ spring:
 #-----通用环境---------------------------------------------------------
 
   # 导入jdbc.properties文件
-  config:
-    import: classpath:jdbc.properties
+#  config:
+#    import: classpath:jdbc.properties
 
 
   #spring-mvc配置
@@ -60,11 +60,11 @@ spring:
     # username: ${jdbc.username}
     # password: ${jdbc.password}
     # 配置数据源-druid
-    druid:
-      driver-class-name: ${jdbc.driver}
-      url: ${jdbc.url}
-      username: ${jdbc.username}
-      password: ${jdbc.password}
+#    druid:
+#      driver-class-name: ${jdbc.driver}
+#      url: ${jdbc.url}
+#      username: ${jdbc.username}
+#      password: ${jdbc.password}
 
 
 
