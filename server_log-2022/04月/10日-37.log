@@ -1,0 +1,12 @@
+2022-04-10 20:33:53.133  INFO 18120 --- [main] mao.spring_boot_log.LogTest              : Started LogTest in 1.702 seconds (JVM running for 2.628)
+2022-04-10 20:33:53.608 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.608  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.608  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609 ERROR 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609 ERROR 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.609  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello

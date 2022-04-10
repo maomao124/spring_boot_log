@@ -1,0 +1,12 @@
+2022-04-10 20:33:23.821  INFO 7048 --- [main] mao.spring_boot_log.LogTest              : Started LogTest in 1.682 seconds (JVM running for 2.568)
+2022-04-10 20:33:24.253 DEBUG 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.253  INFO 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.253  WARN 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.253 ERROR 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.253 DEBUG 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.253  INFO 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.254  WARN 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.254 ERROR 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.254 DEBUG 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.254  INFO 7048 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:24.254  WARN 7048 --- [main] mao.spring_boot_log.Log                  : hello

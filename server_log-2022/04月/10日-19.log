@@ -1,0 +1,12 @@
+2022-04-10 20:33:30.701  INFO 10584 --- [main] mao.spring_boot_log.LogTest              : Started LogTest in 1.68 seconds (JVM running for 2.542)
+2022-04-10 20:33:31.119 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.119  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.119  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.119 ERROR 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120 ERROR 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.120  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello

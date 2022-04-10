@@ -1,0 +1,16 @@
+2022-04-10 20:33:31.120 ERROR 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.122 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.122  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.122  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.122 ERROR 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123 ERROR 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.123 ERROR 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.124 DEBUG 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.124  INFO 10584 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:31.124  WARN 10584 --- [main] mao.spring_boot_log.Log                  : hello

@@ -1,0 +1,16 @@
+2022-04-10 20:33:36.960 ERROR 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.961 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.961  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.961  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.961 ERROR 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962 ERROR 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.962 ERROR 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.963 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.963  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.963  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello

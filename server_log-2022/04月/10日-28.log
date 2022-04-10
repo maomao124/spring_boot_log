@@ -1,0 +1,12 @@
+2022-04-10 20:33:36.561  INFO 5960 --- [main] mao.spring_boot_log.LogTest              : Started LogTest in 1.636 seconds (JVM running for 2.504)
+2022-04-10 20:33:36.958 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959 ERROR 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959 ERROR 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.959 DEBUG 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.960  INFO 5960 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:36.960  WARN 5960 --- [main] mao.spring_boot_log.Log                  : hello

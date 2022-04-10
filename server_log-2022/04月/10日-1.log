@@ -1,0 +1,12 @@
+2022-04-10 20:33:00.903  INFO 10448 --- [main] mao.spring_boot_log.LogTest              : Started LogTest in 1.669 seconds (JVM running for 2.562)
+2022-04-10 20:33:01.380 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.380  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381 ERROR 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381 ERROR 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.381  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello

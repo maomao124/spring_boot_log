@@ -1,0 +1,16 @@
+2022-04-10 20:33:53.609 ERROR 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.611 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.612  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.612  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.612 ERROR 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.612 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.612  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.612  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613 ERROR 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613 ERROR 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613 DEBUG 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613  INFO 18120 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:53.613  WARN 18120 --- [main] mao.spring_boot_log.Log                  : hello

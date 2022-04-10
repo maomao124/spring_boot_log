@@ -1,0 +1,16 @@
+2022-04-10 20:33:01.381 ERROR 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.383 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.383  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.383  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.383 ERROR 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.383 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.383  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384 ERROR 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384 ERROR 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384 DEBUG 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384  INFO 10448 --- [main] mao.spring_boot_log.Log                  : hello
+2022-04-10 20:33:01.384  WARN 10448 --- [main] mao.spring_boot_log.Log                  : hello
